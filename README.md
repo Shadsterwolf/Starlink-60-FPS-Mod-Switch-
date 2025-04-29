@@ -16,7 +16,7 @@ Trying to play this at an unstable 30 fps was such an eyesore, so I made this 60
 ### Notes
 - Ryujinx sometimes stutters and crashes randomly, mostly while space travel, but game autosaves after every objective
 - Switch Console overclocking will destroy your battery, stay on official charger while playing
-- Switch Console tested with max overclock on Gen 1 switch ranges from 30-50FPS docked to 35-60fps handheld
+- Switch Console tested with max overclock on Gen 1 switch ranges from 30-50FPS docked mode to 35-60fps handheld mode
 - Yuzu/Suyu has tons of rendering issues & randomly crashes, not recommended
 
 # Install Ryujinx
