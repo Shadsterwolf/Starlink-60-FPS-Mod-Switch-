@@ -1,7 +1,11 @@
 # Starlink : Battle for Atlas - 60 FPS Mod - Switch
 
-Surprised to see that nobody made this for our Starfox crew. Since you only get the Starfox storyline from the Switch version.
-<br/>Trying to play this at an unstable 30fps is such an eyesore, so I made this mod for emulators and the console.
+Trying to play this at an unstable 30 fps is such an eyesore, so I made this 60 fps mod for emulators and the console!
+<br/>**Since you ONLY get the Starfox storyline from the Switch version...**
+<br/>
+<br/>It's your generic Ubisoft game, with a generic story that attempted to make amiibos but for starships?
+<br/>But a fun and beautiful game, looks like No Mans Sky with Starfox slapped on it.
+<br/>So it's no wonder this game made only sold 69,322 units for the switch in a week back in 2018
 
 ## Requirements
 - Base Game
@@ -42,3 +46,7 @@ Surprised to see that nobody made this for our Starfox crew. Since you only get 
 <br/>  _(Overlay menu for clock speed status & FPS)_
 11. (Optional) Download & Add to SD card - Salty-NX: https://github.com/masagrator/SaltyNX/releases/tag/1.1.1
 <br/>  _(Background process to support overlay menus & FPS monitor)_
+
+## Gameplay
+- In Options > Gameplay, scroll all the way down, change Boost Controls to "Always use R"
+<br/>  _It will just feel better to play this way, trust me, not sure this wasn't the default_
