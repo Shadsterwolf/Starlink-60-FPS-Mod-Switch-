@@ -1,6 +1,6 @@
 # Starlink : Battle for Atlas - 60 FPS Mod - Switch
-
-Trying to play this at an unstable 30 fps was such an eyesore, so I made this 60 fps mod for emulators and the console!
+Video: https://www.youtube.com/watch?v=kZG_ahuiDeQ
+<br/>Trying to play this at an unstable 30 fps was such an eyesore, so I made this 60 fps mod for emulators and the console!
 <br/>**Since you ONLY get the Starfox storyline from the Switch version...**
 <br/>
 <br/>It's your generic Ubisoft game, with a generic story that attempted to make amiibos but for starships?
