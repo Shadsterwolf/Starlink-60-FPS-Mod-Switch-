@@ -22,7 +22,7 @@ Video: https://www.youtube.com/watch?v=kZG_ahuiDeQ
 # Install Ryujinx
 <sub>(Tested on Ryujinx 1.3.1 / Canary 1.3.37)</sub>
 1. Download & Install Ryujinx: https://github.com/Ryubing/Stable-Releases/releases
-2. After firmware/keys setup, Right-click Game, Manage Title Updates > Add > Select version 1.0.6
+2. After firmware/keys setup, Right-click Game > Manage Title Updates > Add > Select version 1.0.6
 3. Download and Unzip my mod for Ryujinx
 4. Right-click Game > Manage Mods > Select the unziped folder 
 <br/>   `..\Ryujinx\mods\contents\01002cc003fe6000\60FPS (1.0.6) Shadsterwolf`
