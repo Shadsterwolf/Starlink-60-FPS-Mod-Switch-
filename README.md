@@ -15,8 +15,8 @@ Trying to play this at an unstable 30 fps is such an eyesore, so I made this 60 
 
 ### Notes
 - Ryujinx sometimes stutters and crashes randomly, but game autosaves after every objective
-- Yuzu/Suyu has tons of rendering issues & randomly crashes, not recommended
 - Switch Console overclocking will destroy your battery, stay on official charger while playing
+- Yuzu/Suyu has tons of rendering issues & randomly crashes, not recommended
 
 # Install Ryujinx
 <sub>(Tested on Ryujinx 1.3.1 / Canary 1.3.37)</sub>
